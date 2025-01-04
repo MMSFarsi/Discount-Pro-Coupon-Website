@@ -1,0 +1,214 @@
+[
+  {
+    "_id": "brand1",
+    "brand_name": "Daraz",
+    "rating": 4.6,
+    "description": "The largest e-commerce platform in Bangladesh offering a wide range of products.",
+    "brand_logo": "https://i.ibb.co/0KGwVBc/logo1.png",
+    "coupons": [
+      {
+        "coupon_code": "DARAZ20",
+        "description": "20% off on electronics and home appliances.",
+        "expiry_date": "2024-12-31",
+        "condition": "Valid on orders above BDT 500.",
+        "coupon_type": "percentage"
+      },
+      {
+        "coupon_code": "DARAZ5",
+        "description": "Flat 5% discount on your first order.",
+        "expiry_date": "2024-11-30",
+        "condition": "For new users only.",
+        "coupon_type": "percentage"
+      },
+      {
+        "coupon_code": "DARAZ10",
+        "description": "10% off on fashion and accessories.",
+        "expiry_date": "2024-12-15",
+        "condition": "Valid on orders above BDT 1000.",
+        "coupon_type": "percentage"
+      },
+      {
+        "coupon_code": "DARAZ25",
+        "description": "25% off on beauty and personal care items.",
+        "expiry_date": "2024-12-05",
+        "condition": "Valid on selected items only.",
+        "coupon_type": "percentage"
+      }
+    ],
+    "shop_link": "https://daraz.com.bd",
+    "category": "E-commerce",
+    "isSaleOn": true
+  },
+  {
+    "_id": "brand2",
+    "brand_name": "Shwapno",
+    "rating": 4.4,
+    "description": "The leading supermarket chain in Bangladesh for groceries and daily essentials.",
+    "brand_logo": "https://i.ibb.co/QfVZV73/logo2.webp",
+    "coupons": [
+      {
+        "coupon_code": "SWAPNO10",
+        "description": "Get 10% off on orders above BDT 1000.",
+        "expiry_date": "2024-12-20",
+        "condition": "Valid for online orders only.",
+        "coupon_type": "percentage"
+      },
+      {
+        "coupon_code": "SWAPNO5",
+        "description": "5% off on fresh produce.",
+        "expiry_date": "2024-12-05",
+        "condition": "Valid for grocery items only.",
+        "coupon_type": "percentage"
+      },
+      {
+        "coupon_code": "SWAPNO15",
+        "description": "15% off on all frozen food items.",
+        "expiry_date": "2024-12-25",
+        "condition": "Valid on selected frozen food items.",
+        "coupon_type": "percentage"
+      }
+    ],
+    "shop_link": "https://shwapno.com",
+    "category": "Groceries",
+    "isSaleOn": true
+  },
+  {
+    "_id": "brand3",
+    "brand_name": "Shajgoj",
+    "rating": 4.8,
+    "description": "Your ultimate beauty and skincare destination in Bangladesh.",
+    "brand_logo": "https://i.ibb.co/Cwh2vBX/Shajgoj-LOGO.png",
+    "coupons": [
+      {
+        "coupon_code": "BEAUTY15",
+        "description": "15% off on all skincare products.",
+        "expiry_date": "2024-12-15",
+        "condition": "No minimum purchase required.",
+        "coupon_type": "percentage"
+      },
+      {
+        "coupon_code": "BEAUTY10",
+        "description": "10% off on all beauty products.",
+        "expiry_date": "2024-12-31",
+        "condition": "Valid on selected brands.",
+        "coupon_type": "percentage"
+      },
+      {
+        "coupon_code": "BEAUTY5",
+        "description": "5% off on makeup products.",
+        "expiry_date": "2024-12-10",
+        "condition": "Valid on selected brands only.",
+        "coupon_type": "percentage"
+      }
+    ],
+    "shop_link": "https://shajgoj.com",
+    "category": "Beauty & Skincare",
+    "isSaleOn": true
+  },
+  {
+    "_id": "brand4",
+    "brand_name": "Star Tech",
+    "rating": 4.7,
+    "description": "Bangladesh's trusted tech shop for laptops, gadgets, and accessories.",
+    "brand_logo": "https://i.ibb.co/nCj3mQ7/startech-logo-0-BF29-AE753-seeklogo-com.png",
+    "coupons": [
+      {
+        "coupon_code": "STAR5",
+        "description": "Flat 5% discount on all tech accessories.",
+        "expiry_date": "2024-12-10",
+        "condition": "Valid on accessories only.",
+        "coupon_type": "percentage"
+      },
+      {
+        "coupon_code": "STAR10",
+        "description": "10% off on laptops and gadgets.",
+        "expiry_date": "2024-12-20",
+        "condition": "Valid on selected products only.",
+        "coupon_type": "percentage"
+      },
+      {
+        "coupon_code": "STAR15",
+        "description": "15% off on gaming accessories.",
+        "expiry_date": "2024-12-31",
+        "condition": "Valid on gaming products only.",
+        "coupon_type": "percentage"
+      }
+    ],
+    "shop_link": "https://startech.com.bd",
+    "category": "Electronics",
+    "isSaleOn": true
+  },
+  {
+    "_id": "brand5",
+    "brand_name": "Rokomari",
+    "rating": 4.9,
+    "description": "The most popular online bookstore in Bangladesh.",
+    "brand_logo": "https://i.ibb.co/D7nW4zP/logo5.png",
+    "coupons": [
+      {
+        "coupon_code": "BOOKLOVER20",
+        "description": "20% off on all books and educational materials.",
+        "expiry_date": "2024-12-31",
+        "condition": "No minimum purchase required.",
+        "coupon_type": "percentage"
+      },
+      {
+        "coupon_code": "BOOKLOVER10",
+        "description": "10% off on textbooks.",
+        "expiry_date": "2024-12-10",
+        "condition": "Valid on selected categories.",
+        "coupon_type": "percentage"
+      },
+      {
+        "coupon_code": "BOOKLOVER15",
+        "description": "15% off on children's books.",
+        "expiry_date": "2024-12-20",
+        "condition": "Valid on children's books only.",
+        "coupon_type": "percentage"
+      }
+    ],
+    "shop_link": "https://rokomari.com",
+    "category": "Books",
+    "isSaleOn": true
+  },
+  {
+    "_id": "brand6",
+    "brand_name": "Foodpanda",
+    "rating": 4.5,
+    "description": "Bangladesh's leading food delivery service, connecting you to your favorite restaurants.",
+    "brand_logo": "https://i.ibb.co/k9Yd8pC/Foodpanda-Logo-wine.png",
+    "coupons": [
+      {
+        "coupon_code": "PANDA50",
+        "description": "50% off on your first order.",
+        "expiry_date": "2024-12-31",
+        "condition": "Valid for new users only.",
+        "coupon_type": "percentage"
+      },
+      {
+        "coupon_code": "PANDAFREE",
+        "description": "Free delivery on orders above BDT 300.",
+        "expiry_date": "2024-11-30",
+        "condition": "Applicable on select restaurants only.",
+        "coupon_type": "free_delivery"
+      },
+      {
+        "coupon_code": "PANDA30",
+        "description": "30% off on selected restaurants.",
+        "expiry_date": "2024-12-15",
+        "condition": "Valid for orders above BDT 500.",
+        "coupon_type": "percentage"
+      },
+      {
+        "coupon_code": "PANDA25",
+        "description": "25% off on dessert items.",
+        "expiry_date": "2024-12-10",
+        "condition": "Valid for dessert items only.",
+        "coupon_type": "percentage"
+      }
+    ],
+    "shop_link": "https://foodpanda.com.bd",
+    "category": "Food Delivery",
+    "isSaleOn": true
+  }
+]
